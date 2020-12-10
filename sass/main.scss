@@ -1,5 +1,5 @@
 @import "abstracts/fuctions";
-@import "abstracts/fuctions";
+@import "abstracts/mixins";
 @import "abstracts/variables";
 
 @import "base/animation";
@@ -8,7 +8,11 @@
 @import "base/utilities";
 
 @import "components/button";
+@import "components/card";
+@import "components/composition";
+@import "components/feature-box";
 
+@import "layout/grid";
 @import "layout/header";
 
 @import "pages/home";
